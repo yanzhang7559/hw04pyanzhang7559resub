@@ -8,8 +8,7 @@ Authors@R:
            email = "yz7559a@student.american.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is calculate a n order number based on the first, second and third element in a vector. Then you can make a plot based on the vector.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
