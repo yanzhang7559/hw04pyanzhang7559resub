@@ -1,3 +1,12 @@
+#' Title
+#'
+#' @param x the vector in the input
+#' @param n the order of n need to be calculate
+#'
+#' @return my_seq_n
+#' @export
+#'
+#' @examples myseq_n(x = c(2, 4, 3), n = 4)
 myseq_n<-function(x,n){
   stopifnot(n>0 |length(x)>=3 | typeof(x)=="numeric")
   myseq_n<-vector(mode = "numeric",length = n)

@@ -18,3 +18,8 @@ Suggests:
 Language: en-US
 URL: https://github.com/yanzhang7559/hw04pyanzhang7559resub
 BugReports: https://github.com/yanzhang7559/hw04pyanzhang7559resub/issues
+Imports: 
+    dplyr,
+    ggplot2,
+    magrittr,
+    tibble
