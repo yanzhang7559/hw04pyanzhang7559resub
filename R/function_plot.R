@@ -1,4 +1,4 @@
-#' function_plot is for making plot based on the result of myseq_n.
+#' function_plotuse is for making plot based on the result of myseq_n.
 #'
 #' @param df
 #'

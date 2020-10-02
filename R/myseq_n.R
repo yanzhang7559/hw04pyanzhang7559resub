@@ -1,4 +1,4 @@
-#' myseq_n is for calculating the nth number based on the first 3 numbers.
+#' myseq_n is for calculating the nth number based on the first 3 numbers.use_te
 #'
 #' @param x the vector in the input
 #' @param n the order of n need to be calculate
